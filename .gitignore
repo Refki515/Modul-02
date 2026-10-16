@@ -1,0 +1,13 @@
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/node_modules/
+**/android/.gradle/
+**/android/app/build/
+**/ios/Pods/
+.DS_Store
+Thumbs.db
